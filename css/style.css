@@ -107,12 +107,13 @@ body, .main-content {
 .language-title,
 .education-title
 {
-    color: #325491;
+    color: #212121;
     font-size: 2rem;
+    font-weight: bold;
 }
 
 .main-content-chevron-icon {
-    color: black;
+    color: #212121;
 }
 
 .tech-skills-container .tech-skills-item .sub-item {
@@ -123,6 +124,10 @@ body, .main-content {
 .company-name {
     color: #987536;
     font-weight: bold;
+}
+
+.education-container a {
+    color: #e2791c;
 }
 
 .period {
