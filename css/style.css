@@ -1,0 +1,130 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+ul > li {
+    line-height: 2rem;
+}
+
+.awesome-icon {
+    font-size: 1.2rem;
+    color: antiquewhite;
+    line-height: 1.3rem;
+}
+
+.col {
+    outline: 1px solid #000;
+}
+
+body, .main-content {
+    font-family: 'PT Serif', serif;
+    font-size: 17px;
+}
+
+.main-content .main-left,
+.main-content .main-right {
+    padding-left: 2rem;
+}
+
+.wrapper {
+    width: 1200px;
+    max-width: 1200px;
+    margin: 15px auto;
+}
+
+.wrapper .header-container,
+.wrapper .header-container > .row
+{
+    margin-bottom: 0;
+}
+
+.personal-info-container {
+    padding: 51px 5px 52px 40px;
+}
+
+.header-container .col.header-left,
+.header-container .col.header-right
+{
+    padding: 0;
+}
+
+.header-container .col.header-left {
+    padding-right: .6rem;
+}
+
+.header-container .col.header-right {
+    padding-left: .6rem;
+}
+
+.personal-info-container .name {
+    font-size: 1.8rem;
+    line-height: 1.9rem;
+    margin: 0;
+    color: antiquewhite;
+}
+.personal-info-container .name > i {
+    font-size: 1.6rem;
+    line-height: 1.8rem;
+    vertical-align: top;
+}
+
+.personal-info-container .name > span {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.personal-info-container .profession {
+    color: antiquewhite;
+    font-size: 1.2rem;
+    padding-left: 1.7rem;
+}
+
+.header-right, .header-right a
+{
+    color: antiquewhite;
+}
+
+.contacts-container.row {
+    margin: 0;
+    padding: 10px;
+}
+
+.contacts-container .contacts-item {
+    padding: .3rem;
+}
+
+.contacts-container .contacts-item > i {
+    display: inline-block;
+    margin-right: 5px;
+    font-size: 1.5rem;
+    vertical-align: middle;
+}
+
+.tech-skills-title,
+.soft-skills-title,
+.experience-title,
+.language-title,
+.education-title
+{
+    color: #325491;
+    font-size: 2rem;
+}
+
+.main-content-chevron-icon {
+    color: black;
+}
+
+.tech-skills-container .tech-skills-item .sub-item {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.company-name {
+    color: #987536;
+    font-weight: bold;
+}
+
+.period {
+    color: #6d4c41;
+}
