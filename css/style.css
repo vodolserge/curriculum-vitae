@@ -127,7 +127,8 @@ body, .main-content {
 }
 
 .education-container a {
-    color: #e2791c;
+    color: #212121;
+    font-weight: bold;
 }
 
 .period {
