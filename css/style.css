@@ -129,6 +129,8 @@ body, .main-content {
 .education-container a {
     color: #212121;
     font-weight: bold;
+    text-decoration: underline;
+    text-underline: #212121;
 }
 
 .period {
