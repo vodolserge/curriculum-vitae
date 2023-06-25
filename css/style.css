@@ -126,7 +126,9 @@ body, .main-content {
     font-weight: bold;
 }
 
-.education-container a {
+.education-container a,
+.experience-description > a
+{
     color: #212121;
     font-weight: bold;
     text-decoration: underline;
